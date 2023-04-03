@@ -175,3 +175,24 @@ form {
 .black-white {
   background-image: linear-gradient(90deg, black 50%, white 50%);
 }
+
+.cart-button {
+  grid-column: span 2;
+}
+.button {
+  color: white;
+  background-color: #495fb9;
+  border: none;
+  width: 100%;
+  padding: 0.5rem;
+  font-family: inherit;
+  border-radius: 0.25rem;
+}
+
+.button:hover {
+  background-color: #324280;
+}
+
+.button:active {
+  background-color: #697cca;
+}
