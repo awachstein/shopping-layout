@@ -100,3 +100,18 @@ h2 {
   padding: 0.5rem;
   border-radius: 0.25rem;
 }
+
+.selection-wrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.selector-field {
+  width: 2.75rem;
+  border-style: none;
+  font-family: inherit;
+}
+
+label {
+  color: #a5a5a5;
+}
