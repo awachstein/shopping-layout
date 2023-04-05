@@ -91,6 +91,7 @@ h2 {
   background-color: #f5f5f5;
   padding: 1rem;
   border-radius: 0.75rem;
+  gap: 1rem;
 }
 
 .price {
@@ -191,6 +192,7 @@ form {
 
 .button:hover {
   background-color: #324280;
+  cursor: pointer;
 }
 
 .button:active {
