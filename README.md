@@ -1,3 +1,3 @@
 ### Coding Kata
 
-Recreation of a shopping layout example, provided by Coding Bootcamps Europe.
+My attempt to replicate a shopping layout example, which was given as a task by Coding Bootcamps Europe.
