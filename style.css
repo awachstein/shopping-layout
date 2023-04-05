@@ -107,6 +107,14 @@ h2 {
   gap: 1rem;
 }
 
+label {
+  color: #808080;
+}
+
+.fake-label {
+  color: #808080;
+}
+
 .selector-field {
   width: 2.75rem;
   border-style: none;
